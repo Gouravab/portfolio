@@ -1,12 +1,11 @@
 import {
-  Instagram,
+
   Linkedin,
   Mail,
   MapPin,
   Phone,
   Send,
-  Twitch,
-  Twitter,
+ 
 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { useToast } from "@/hooks/use-toast";
@@ -38,7 +37,7 @@ export const ContactSection = () => {
 
         <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
           Feel free to reach out.
-          I'm always open to discussing new opportunities.
+          I m always open to discussing new opportunities.
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12">

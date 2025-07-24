@@ -1,4 +1,4 @@
-import { Brain, BrainCircuit, Briefcase, Cloud, Code, User } from "lucide-react";
+import { BrainCircuit, Briefcase, Cloud, Code } from "lucide-react";
 
 export const AboutSection = () => {
   return (
